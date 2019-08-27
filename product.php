@@ -38,8 +38,8 @@
 			</div>
 			<div class="PofC col-9">
 				<div class="col-6">
-                                    <a href="detail.php"><img src="./image/HulkBuster.jpg" width="220px" /></a>
-					<h3>do choi 1</h3>
+                                    <a href="detail.php"><img src="./image/HulkBuster.jpg." width="220px" /></a>
+					<h3>HulkBuster</h3>
 				</div>
 				<div class="col-6">
 					<a href="detail.php"><img src="./image/dochoi1.jpg" width="220px" /></a>
